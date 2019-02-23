@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>4th Semester Data Science Student - specializing in Data Mining, Machine Learning and AI - blogging about traveling, reading and writing - designing and maintaining websites in spare time</p>
+<p>5th Semester Data Science Student - specializing in Data Mining, Machine Learning and AI - blogging about traveling, reading and writing - designing and maintaining websites in spare time</p>

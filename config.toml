@@ -9,10 +9,10 @@ theme = "resume"
     address = "B.A. political science / media and communication science"
     phone = "0049-170-5798947"
     contactNote = "Data Science - Social Media - Web Design"
-    profileImage = "img/profile-lh.jpg"
+    profileImage = "img/profile.JPG"
     email = "mail@larissahaas.de"
-    description = "4th Semester Data Science Student - specializing in Data Mining, Machine Learning and AI - blogging about traveling, reading and writing - designing and maintaining websites in spare time."
-    favicon = "images/favicon.ico"
+    description = "5th Semester Data Science Student - specializing in Data Mining, Machine Learning and AI - blogging about traveling, reading and writing - designing and maintaining websites in spare time."
+    favicon = ""
     # what sections
     showProjects = true
     showSkills = true
