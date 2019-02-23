@@ -1,0 +1,20 @@
+[
+    {
+        "school":"Data Science",
+        "degree":"Master of Science",
+        "major":"University of Mannheim",
+        "notes":"4th Semester - Specialization in Data Mining, Machine Learning and AI",
+        "thesishead":"Master Thesis (prospective)",
+        "thesis":"Representation of Artificial Intelligences in Science Fiction Literature - Do we find a Pattern in Gender, Power, and Attitude?",
+        "range":"2017 - present"
+    },
+    {
+        "school":"Political Science / Media and Communication Science",
+        "degree":"Bachelor of Arts",
+        "major":"University of Mannheim",
+        "notes":"Specialization in Political Sociology and Psychology, Media Framing, Social Media Usage, Voting Decisions",
+        "thesishead":"Bachelor Thesis",
+        "thesis":"Wie beeinflussen Social Networks unser Wahlverhalten? Eine Analyse anhand der Bundestagswahl 2013",
+        "range":"2013 - 2016"
+    }
+]

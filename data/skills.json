@@ -1,0 +1,18 @@
+[
+  {
+      "grouping":"Text & Image",
+      "skills":[ "MS Office","Gimp","Inkscape","OpenOffice","LaTeX"]
+  },
+  {
+    "grouping":"Webdesign",
+    "skills":[ "html5","css3","Hugo","django","markdown","Wordpress","joomla","IONAS","Typo3"]
+  },
+  {
+      "grouping":"Programming Languages & Tools",
+      "skills":[ "Python","git", "github","jenkins","Java","SQL","sparql","xpath","mongodb","micropython", "docker", "pyspark", "dask", "flask"]
+  },
+  {
+    "grouping":"Statistical Analysis (and libraries)",
+    "skills":[ "STATA","R","RapidMiner","Python","pandas","scikitlearn","nltk","h2o", "TensorFlow"]
+  }
+]

@@ -1,0 +1,53 @@
+baseURL = "http://larissahaas.de"
+languageCode = "en-us"
+title = "Larissa Haas"
+theme = "resume"
+
+[params]
+    firstName = "Larissa"
+    lastName = "Haas"
+    address = "B.A. political science / media and communication science"
+    phone = "0049-170-5798947"
+    contactNote = "Data Science - Social Media - Web Design"
+    profileImage = "img/profile-lh.jpg"
+    email = "mail@larissahaas.de"
+    description = "4th Semester Data Science Student - specializing in Data Mining, Machine Learning and AI - blogging about traveling, reading and writing - designing and maintaining websites in spare time."
+    favicon = "images/favicon.ico"
+    # what sections
+    showProjects = true
+    showSkills = true
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+    showData = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "http://linkedin.com/in/larissa-haas-49019aa2"
+
+[[params.handles]]
+    name = "Xing"
+    link = "http://xing.com/profile/Larissa_Haas6"
+    icon = "xing"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/LarissaHa/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/luanacasado/"
+    icon = "twitter"
+
+[[params.handles]]
+    name = "Instagram"
+    link = "https://instagram.com/luana_casado"
+    icon = "instagram"
+
+[[params.handles]]
+    name = "E-Mail"
+    link = "mailto:mail@larissahaas.de"
+    icon = "envelope"
