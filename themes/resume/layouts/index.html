@@ -1,6 +1,7 @@
 {{ define "main" }}
    {{ partial "about.html" .}}
    {{ if .Site.Params.showProjects }}
+      {{ partial "portfolio/projects.html" . }}
       {{ with .Site.GetPage "section" "projects/creations" }}
          {{ .Scratch.Add "sectionId" "projects" }}
          {{ partial "sectionSummary" . }}
