@@ -1,16 +1,18 @@
 [
     {
-        "title":"Hamburg Fahrrad",
-        "course":"Data Mining I",
+        "title":"Analyzing Learning and Working Behaviour of Students with E-Learning Support",
+        "link":"https://github.com/LarissaHa/individual-project",
+        "course":"Individual Project",
         "scope":"one semester",
-        "content":"es geht um fahrräder usw",
-        "keywords":"data mining, supervised learning"
+        "content":"With proceeding digitization in educational realms, today’s learning more and more involves the use of Learning Management Systems (LMS). These systems (like ILIAS in the actual case) can be customized to individual needs and accessed and used with an ordinary browser. Within this online e-learning system, lecturers, tutors, and students are able to communicate and work together in various different ways. All this actions and connections between users, as they are happening online, are recorded and stored and can be therefore used for data analysis.",
+        "keywords":"educational data mining, learning types, e-learning"
     },
     {
-        "title":"Political Science / Media and Communication Science",
-        "course":"Bachelor of Arts",
-        "scope":"University of Mannheim",
-        "content":"Specialization in Political Sociology and Psychology, Media Framing, Social Media Usage, Voting Decisions",
-        "keywords":"Bachelor Thesis"
+        "title":"Neural Net - The ultimate Answer to all Machine Learning Problems?",
+        "link":"https://github.com/LarissaHa/aqm18",
+        "course":"Advanced Quantitative Methods",
+        "scope":"one semester",
+        "content":"The goal of this paper is to broaden the view on ML approaches existing beyond regression, for example, Random Forests, Support Vector Machines, and Neural Nets, and to compare these algorithms in terms of their predictive power on a genuine political science topic: participation in voluntary organizations. Therefore I will have a look at data from the European Social Survey (ESS) from round 1 and 6 because they both include a battery of survey questions about voluntary participation.",
+        "keywords":"political science, neural nets, supervised learning"
     }
 ]
