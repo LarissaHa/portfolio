@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Larissa Haas</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Home on Larissa Haas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
-    
-	<atom:link href="http://larissahaas.de/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="http://larissahaas.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atlassian Deployment Triggers</title>
       <link>http://larissahaas.de/projects/contributions/deploy-triggers/</link>
@@ -54,12 +50,12 @@
       <pubDate>Sat, 10 Feb 2018 18:56:13 -0500</pubDate>
       
       <guid>http://larissahaas.de/imprint/</guid>
-      <description>Impressum Angaben gem&amp;auml;&amp;szlig; &amp;sect; 5 TMG: Larissa Haas
-Raiffeisenstra&amp;szlig;e 35
-67489 Kirrweiler
+      <description>Impressum Angaben gemäß § 5 TMG: Larissa Haas
+Rheinhäuser Str. 47
+68165 Mannheim
 Kontakt Telefon: &amp;ndash;
-E-Mail: larissaswerkstatt@gmail.com
-Haftung f&amp;uuml;r Inhalte Als Diensteanbieter sind wir gem&amp;auml;&amp;szlig; &amp;sect; 7 Abs.1 TMG f&amp;uuml;r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &amp;sect;&amp;sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, &amp;uuml;bermittelte oder gespeicherte fremde Informationen zu &amp;uuml;berwachen oder nach Umst&amp;auml;nden zu forschen, die auf eine rechtswidrige T&amp;auml;tigkeit hinweisen.</description>
+E-Mail: larissa (Klammeraffe) fictional-ai-database.org
+Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
     </item>
     
     <item>
@@ -100,7 +96,7 @@ No content shown here is rendered, all content is based in the template layouts/
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;]  Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
     </item>
     
   </channel>

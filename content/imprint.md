@@ -16,15 +16,15 @@ outputs:
 
 Larissa Haas
 
-Raiffeisenstra&szlig;e 35
+Rheinhäuser Str. 47
 
-67489 Kirrweiler
+68165 Mannheim
 
 ## Kontakt
 
 Telefon: --
 
-E-Mail: larissaswerkstatt@gmail.com
+E-Mail: larissa (Klammeraffe) fictional-ai-database.org
 
 ## Haftung f&uuml;r Inhalte
 
