@@ -8,7 +8,7 @@ draft: false
 description: "This is meta description"
 links:
   - label : "Blog"
-    link : "https://robotsview.wordpress.com/"
+    link : "https://robotsview.de/"
 tags:
   - label : "Wordpress"
 ---

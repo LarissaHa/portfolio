@@ -1,6 +1,6 @@
 ---
-title: "(upcoming) XAI meets Natural Language Processing (PyConDE Berlin 2022)"
-date: 2022-02-17T15:40:24+06:00
+title: "XAI meets Natural Language Processing (PyConDE Berlin 2022)"
+date: 2022-04-13T12:40:00+06:00
 # talks thumb
 image : "images/talks/F3SZL3.png"
 draft: false
@@ -8,7 +8,11 @@ draft: false
 description: "This is meta description"
 # links
 links:
-  - label : "Proposal"
+  - label: "Slides"
+    link: "https://github.com/LarissaHa/talks/tree/master/pyconde-2022"
+  - label: "Video"
+    link: "https://www.youtube.com/watch?v=66A5D6NU17U"
+  - label : "Source"
     link : "https://2022.pycon.de/program/F3SZL3/"
 ---
 

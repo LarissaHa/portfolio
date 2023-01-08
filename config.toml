@@ -126,4 +126,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2022; a hugo theme by [themefisher](https://themefisher.com); [imprint](/imprint)"
+copyright = "Copyright &copy; 2023; a hugo theme by [themefisher](https://themefisher.com); [imprint](/imprint)"
