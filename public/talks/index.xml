@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Larissa Haas | Portfolio</title>
+    <link>http://larissahaas.de/talks/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Larissa Haas | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022; a hugo theme by [themefisher](https://themefisher.com); [imprint](/imprint)</copyright>
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="http://larissahaas.de/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(upcoming) XAI meets Natural Language Processing (PyConDE Berlin 2022)</title>
+      <link>http://larissahaas.de/talks/22-pyconde/</link>
+      <pubDate>Thu, 17 Feb 2022 15:40:24 +0600</pubDate>
+      
+      <guid>http://larissahaas.de/talks/22-pyconde/</guid>
+      <description>As people tend to be more aware of AI systems and their impact, AI ethics and transparency become more and more relevant.</description>
+    </item>
+    
+    <item>
+      <title>XAI meets Natural Language Models (Big Data BBQ 2021)</title>
+      <link>http://larissahaas.de/talks/21-bigdatabbq/</link>
+      <pubDate>Wed, 24 Nov 2021 15:40:24 +0600</pubDate>
+      
+      <guid>http://larissahaas.de/talks/21-bigdatabbq/</guid>
+      <description>Erklärbare KI findet immer mehr Beachtung, da Kunden und Nutzer verstehen wollen, wie KI-Modelle zu ihren Vorhersagen und Schlussfolgerungen kommen.</description>
+    </item>
+    
+    <item>
+      <title>Bullet Journaling as Non-Coding Superpower (pyLadies Berlin meetup)</title>
+      <link>http://larissahaas.de/talks/21-bujo-power/</link>
+      <pubDate>Mon, 08 Mar 2021 15:40:24 +0600</pubDate>
+      
+      <guid>http://larissahaas.de/talks/21-bujo-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gendergerechte Sprache und Machine Learning (german only) (LiteraturCamp 2020)</title>
+      <link>http://larissahaas.de/talks/20-gendersprache/</link>
+      <pubDate>Sat, 15 Aug 2020 15:40:24 +0600</pubDate>
+      
+      <guid>http://larissahaas.de/talks/20-gendersprache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update zu Darstellungen von KI in Science Fiction (german only) (LiteraturCamp 2020)</title>
+      <link>http://larissahaas.de/talks/20-ai-update/</link>
+      <pubDate>Sat, 15 Aug 2020 15:40:24 +0600</pubDate>
+      
+      <guid>http://larissahaas.de/talks/20-ai-update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blick in die Zukunft oder Spiegel der Gesellschaft - Die Darstellung von Künstlicher Intelligenz in Science Fiction (german only) (Ringvorlesung Universität Mannheim)</title>
+      <link>http://larissahaas.de/talks/19-ringvorlesung/</link>
+      <pubDate>Tue, 01 Oct 2019 15:40:24 +0600</pubDate>
+      
+      <guid>http://larissahaas.de/talks/19-ringvorlesung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Portrayal of AI in Science Fiction (PyData Südwest meetup)</title>
+      <link>http://larissahaas.de/talks/19-pydata-lightning/</link>
+      <pubDate>Wed, 25 Sep 2019 15:40:24 +0600</pubDate>
+      
+      <guid>http://larissahaas.de/talks/19-pydata-lightning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Die Darstellung von KI in Science Fiction (german only) (LiteraturCamp 2019)</title>
+      <link>http://larissahaas.de/talks/19-litcamp/</link>
+      <pubDate>Sun, 30 Jun 2019 15:40:24 +0600</pubDate>
+      
+      <guid>http://larissahaas.de/talks/19-litcamp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,24 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Larissa Haas</title>
+    <title>Publications on Larissa Haas | Portfolio</title>
     <link>http://larissahaas.de/publications/</link>
-    <description>Recent content in Publications on Larissa Haas</description>
+    <description>Recent content in Publications on Larissa Haas | Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://larissahaas.de/publications/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright &amp;copy; 2022; a hugo theme by [themefisher](https://themefisher.com); [imprint](/imprint)</copyright>
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="http://larissahaas.de/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bullet Journaling — A non-coding super power</title>
+      <link>http://larissahaas.de/publications/bujo/</link>
+      <pubDate>Thu, 23 Sep 2021 15:40:24 +0600</pubDate>
+      
+      <guid>http://larissahaas.de/publications/bujo/</guid>
+      <description>Bullet Journaling helped me through a lot of difficult phases in my life, independent of whether they were personal, educational or working related.</description>
+    </item>
     
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>http://larissahaas.de/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Begeisterung in der Arbeit mit Kunden: sovantas innovativer Zugang zu Data-Science-Projekten</title>
+      <link>http://larissahaas.de/publications/escaperoom/</link>
+      <pubDate>Thu, 25 Feb 2021 15:40:24 +0600</pubDate>
       
-      <guid>http://larissahaas.de/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
- Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+      <guid>http://larissahaas.de/publications/escaperoom/</guid>
+      <description>Jeder hat die Bezeichnung Machine Learning schon einmal gehört. Und dennoch: Das größte Problem zu Beginn eines entsprechenden Projekts ist, zu verstehen, worum es überhaupt geht.</description>
+    </item>
+    
+    <item>
+      <title>The Portrayal of Artificial Intelligence in Science Fiction Literature (Master Thesis)</title>
+      <link>http://larissahaas.de/publications/thesis/</link>
+      <pubDate>Fri, 19 Jul 2019 15:40:24 +0600</pubDate>
+      
+      <guid>http://larissahaas.de/publications/thesis/</guid>
+      <description>Artificial intelligencens (AI) inhabit our daily lives, but we do not know how this living together will look like in the future.</description>
     </item>
     
   </channel>

@@ -1,0 +1,122 @@
+######################### Banner ###########################
+banner:
+  enable : true
+  title :  "Hey, I’m Larissa **!**"
+  subtitle : "Data Scientist @ sovanta AG"
+  social : true
+  # social icons comes from `config.toml` file.
+
+
+####################### About ##############################
+about:
+  enable : true
+  title : ""
+  image : "images/author.jpg"
+  content : "I am a Data Scientist working in Heidelberg. With university degrees in Political Science and Data Science, I combine ethical and business views on NLP projects. Besides that, I care about AI in Science Fiction, Bullet Journaling, and bringing Roundnet to the Olympic Games."
+
+
+####################### Education ###########################
+education:
+  enable : true
+  title : "Education"
+  education_item:
+    # education item loop
+    - name : "MSc Data Science"
+      duration : "January 2017 - July 2019"
+      academy : "University of Mannheim"
+      content : "Keywords: Data Mining, Web Mining, Big Data, Text Analysis, Part-of-Speech-Tagging, Network Analysis, Recommender Systems, Statistical Analysis, Python, R, Stata"
+
+    # education item loop
+    - name : "BA Political Science and Media and Communication Science"
+      duration : "September 2013 - December 2016"
+      content : "Keywords: Social Media, Media and Politics, Political Psychology, Media Psychology, Network Analysis, Media Theory"
+
+
+####################### Experience ###########################
+experience:
+  enable : true
+  title : "Professional Experience"
+  experience_item:
+    # experience item loop
+    - name : "Data Scientist"
+      content : "@ sovanta AG <br> with special focus on NLP and Business Process Automation Projects"
+    
+    # experience item loop
+    - name : "Qualtrics-certified Employee Experience (EX) Expert"
+      content : "Manage Qualtrics surveys, consult customers with setup, design, and analysis of surveys and responses"
+
+    # experience item loop
+    - name : "SAP Cloud Automation Architect"
+      content : "Plan and setup various projects with SAP services, such as SAP BTP (as infrastructure), SAP Integration Suite, SAP iRPA, SAP Data Intelligence, ..."
+
+
+####################### Expertise ###########################
+expertise:
+  enable : false
+  title : "Expertise"
+  expertise_item:
+    # expertise item loop
+    - name : "Data Analysis and Visualization"
+      content : "<b>Analysis Libraries</b>: pandas, numpy <br> Visualizations: Tablaeu, Seaborn"
+
+    # expertise item loop
+    - name : "Statical Method Learning"
+      content : "Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn"
+
+
+####################### Publication ###########################
+publication:
+  enable : true
+  title : "Publications"
+  # publication item comes from `content/**/publications/` folder.
+
+
+########################### Talk ##############################
+talk:
+  enable : true
+  title : "Recent & Upcoming Talks"
+  # talk item comes from `content/**/talks/` folder.
+
+
+########################## Projects ###########################
+project:
+  enable : true
+  title : "My Projects"
+  # projects item comes from `content/**/projects/` folder.
+
+
+########################### Blog ##############################
+blog:
+  enable : false
+  title : "Blog Post"
+  # blog item comes from `content/**/blogs/` folder.
+
+
+########################## Contact ############################
+# contact foem
+contact_form:
+  enable : false
+  title : "Contact Me"
+  contact_form_action : "#" #contact form works with https://formspree.io
+  name_label : "Your Name"
+  email_label : "Your Email"
+  textarea_label : "Your Message"
+  button_label : "Send Now"
+
+# contact info
+contact_info:
+  enable : false
+  title : "Get In Touch"
+  content : "Let’s talk about your project and how I can help you or if you just want to chat about design and art - shoot me a message at abcxmple@gmail.com"
+  contact_item:
+    # contact item loop
+    - icon : "ti-email" # themify icon : https://themify.me/themify-icons
+      id : "s.vanbuuren@uu.nl"
+
+    # contact item loop
+    - icon : "ti-mobile" # themify icon : https://themify.me/themify-icons
+      id : "+8801856388817"
+
+    # contact item loop
+    - icon : "ti-location-pin" # themify icon : https://themify.me/themify-icons
+      id : "Sjoerd Groenmangebouw C1.19, Padualaan 14,3584 CH Utrecht, The Netherlands; TNO Child The Netherlands"

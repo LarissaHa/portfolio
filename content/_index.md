@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>5th Semester Data Science Student - specializing in Data Mining, Machine Learning and AI - blogging about traveling, reading and writing - designing and maintaining websites in spare time</p>
+<p>Data Scientist working in Heidelberg - combining ethical and business views on NLP projects - probably reading too much - interested in AI in Science Fiction, Bullet Journaling, and bringing Roundnet to the Olympic Games</p>

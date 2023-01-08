@@ -1,53 +1,129 @@
+######################## default configuration ####################
 baseURL = "http://larissahaas.de"
-languageCode = "en-us"
-title = "Larissa Haas"
-theme = "resume"
+title = "Larissa Haas | Portfolio"
+theme = "gofolium"
+# post pagination
+paginate = "4"
+# post excerpt
+summaryLength = "10"
+# disable language
+disableLanguages = [] # desable language from here
 
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/particles/particles.min.js"
+[[params.plugins.js]]
+link = "plugins/particles/stats.min.js"
+[[params.plugins.js]]
+link = "plugins/reading-time/readingTime.min.js"
+
+
+############################## navigation ###############################
+
+# main menu
+[[menu.main]]
+name = "home"
+URL = "home"
+weight = 1
+
+[[menu.main]]
+name = "about"
+URL = "about"
+weight = 2
+
+[[menu.main]]
+name = "publications"
+URL = "publication"
+weight = 5
+  
+[[menu.main]]
+name = "talks"
+URL = "talk"
+weight = 3
+  
+[[menu.main]]
+name = "projects"
+URL = "project"
+weight = 4
+
+
+#################### default parameters ################################
 [params]
-    firstName = "Larissa"
-    lastName = "Haas"
-    address = "B.A. political science / media and communication science"
-    phone = "0049-170-5798947"
-    contactNote = "Data Science - Social Media - Web Design"
-    profileImage = "img/profile.JPG"
-    email = "mail@larissahaas.de"
-    description = "5th Semester Data Science Student - specializing in Data Mining, Machine Learning and AI - blogging about traveling, reading and writing - designing and maintaining websites in spare time."
-    favicon = ""
-    # what sections
-    showProjects = true
-    showSkills = true
-    showOpenSource = false
-    showPublications = false
-    showExperience = true
-    showEducation = true
-    showData = true
+logo = "images/logo.png"
+# Meta data
+description = "Professional Portfolio of Larissa Haas, Data Scientist"
+author = "Themefisher"
+# Google Analitycs
+google_analitycs_id = "" # your id
 
-    showQr = true
+# body particles
+particles = true
 
-[[params.handles]]
-    name = "LinkedIn"
-    link = "http://linkedin.com/in/larissa-haas-49019aa2"
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
 
-[[params.handles]]
-    name = "Xing"
-    link = "http://xing.com/profile/Larissa_Haas6"
-    icon = "xing"
+# Navigation button
+[params.navigation_button]
+enable = false
+label = "contact"
+link = "contact"
+  
+############################# social site ########################
 
-[[params.handles]]
-    name = "GitHub"
-    link = "https://github.com/LarissaHa/"
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/l_r_ss_"
 
-[[params.handles]]
-    name = "Twitter"
-    link = "https://twitter.com/luanacasado/"
-    icon = "twitter"
+[[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/lilana21/"
 
-[[params.handles]]
-    name = "Instagram"
-    link = "https://instagram.com/luana_casado"
-    icon = "instagram"
+[[params.social]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "https://github.com/LarissaHa"
 
-[[params.handles]]
-    name = "E-Mail"
-    link = "mailto:mail@larissahaas.de"
-    icon = "envelope"
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "https://www.linkedin.com/in/larissa-haas-49019aa2/"
+
+[[params.social]]
+title = "xing"
+icon = "ti-sharethis" # themify icon : https://themify.me/themify-icons
+link = "http://xing.com/profile/Larissa_Haas6"
+
+[[params.social]]
+title = "medium"
+icon = "ti-sharethis" # themify icon : https://themify.me/themify-icons
+link = "https://medium.com/@larissahaas"
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+# copyright
+copyright = "Copyright &copy; 2022; a hugo theme by [themefisher](https://themefisher.com); [imprint](/imprint)"

@@ -1,20 +1,14 @@
 [
     {
-        "role":"Student Assistant",
-        "company":"University of Mannheim - Political Science IV",
-        "summary":"Building and maintaining the project website with Python and Django",
-        "range":"November 2018 - Present"
+        "role":"Data Scientist",
+        "company":"sovanta AG",
+        "summary":"...",
+        "range":"2019 - present"
     },
     {
         "role":"Student Assistant",
-        "company":"University of Mannheim - Computing Centre",
-        "summary":"Support for working with Campus Management System - writing user documentation - providing workshops and manuals",
-        "range":"March 2014 - Present"
-    },
-    {
-        "role":"Student Assistant",
-        "company":"MZES - Mannheim Centre for European Social Research",
-        "summary":"Data management and analysis - literature and internet research",
-        "range":"March 2017 - January 2018"
+        "company":"University of Mannheim - various organisations",
+        "summary":"Building and maintaining the project website with Python and Django,Support for working with Campus Management System, writing user documentation, providing workshops and manuals, Data management and analysis, literature and internet research",
+        "range":"2014 - 2019"
     }
 ]

@@ -1,0 +1,22 @@
+<article class="card bg-dark rounded-0 border-0">
+  {{ with .Params.Image }} <img src="{{ . | absURL }}" alt="" class="card-img-top mb-4 rounded-0"> {{ end }}
+  <div class="card-body">
+    <h4 class="mb-3"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
+    {{ if .Params.Links }}
+    <ul class="btn-link-group list-inline">
+      {{ range .Params.Links }}
+      <li class="list-inline-item"><a href="{{ .link | absURL }}" target="_blank">{{ .label }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    <p>{{ .Summary }}</p>
+    {{ if .Params.Tags }}
+    Technologies: 
+    <ul class="list-inline">
+      {{ range .Params.Tags }}
+      <li class="list-inline-item text-primary">{{ .label }}</li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</article>
