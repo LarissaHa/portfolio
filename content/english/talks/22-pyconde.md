@@ -2,7 +2,7 @@
 title: "XAI meets Natural Language Processing (PyConDE Berlin 2022)"
 date: 2022-04-13T12:40:00+06:00
 # talks thumb
-image : "images/talks/F3SZL3.png"
+image : "images/talks/22-pyconde.jpeg"
 draft: false
 # description
 description: "This is meta description"
