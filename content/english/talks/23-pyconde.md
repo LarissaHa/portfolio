@@ -1,18 +1,20 @@
 ---
-title: "(upcoming) XAI meets Natural Language Processing (PyConDE Berlin 2023)"
+title: "(upcoming) Bringing NLP to Production (PyConDE Berlin 2023)"
 date: 2023-02-01T12:40:00+06:00
 # talks thumb
-image : "images/talks/F3SZL3.png"
-draft: true
+image : "images/talks/VHNJ37.png"
+draft: false
 # description
 description: "This is meta description"
 # links
 links:
   - label: "Proposal"
-    link : "https://2022.pycon.de/program/F3SZL3/"
+    link : "https://2023.pycon.de/program/VHNJ37/"
 ---
 
-Models in Natural Language Processing are fun to train but can be difficult to deploy. The size of their models, libraries and necessary files can be challenging, especially in a microservice environment. When services should be built as lightweight and slim as possible, large (language) models can lead to a lot of problems. 
+(an end to end story about some multi-language NLP services)
+
+Models in Natural Language Processing are fun to train but can be difficult to deploy. The size of their models, libraries and necessary files can be challenging, especially in a microservice environment. When services should be built as lightweight and slim as possible, large (language) models can lead to a lot of problems.
 
 All the way down from brainstorming the use case, receiving and cleaning the data, training and optimizing the model until service building, deployment, and quality monitoring, lots of important data science related decisions need to be made which in the end will influence the selection of deployment tools and infrastructure. And most often, those architectural decisions are rather long-term so they should be thoughtfully chosen in order to fit into the rest of the architecture.
 
