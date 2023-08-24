@@ -1,18 +1,20 @@
 ---
-title: "(upcoming) Bringing NLP to Production (PyConDE Berlin 2023)"
+title: "Bringing NLP to Production (PyConDE Berlin 2023)"
 date: 2023-02-01T12:40:00+06:00
 # talks thumb
-image : "images/talks/VHNJ37.png"
+image : "images/talks/23-pyconde.jpeg"
 draft: false
 # description
 description: "This is meta description"
 # links
 links:
-  - label: "Proposal"
-    link : "https://2023.pycon.de/program/VHNJ37/"
+  - label: "Slides"
+    link: "https://github.com/LarissaHa/talks/tree/master/pyconde-2023"
+  - label: "Video"
+    link: "https://www.youtube.com/watch?v=GU8e2VgbqJ0"
+  - label : "Source"
+    link : "https://2022.pycon.de/program/VHNJ37/"
 ---
-
-(an end to end story about some multi-language NLP services)
 
 Models in Natural Language Processing are fun to train but can be difficult to deploy. The size of their models, libraries and necessary files can be challenging, especially in a microservice environment. When services should be built as lightweight and slim as possible, large (language) models can lead to a lot of problems.
 

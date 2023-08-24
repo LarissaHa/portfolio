@@ -46,7 +46,7 @@ experience:
       content : "Manage Qualtrics surveys, consult customers with setup, design, and analysis of surveys and responses"
 
     # experience item loop
-    - name : "SAP Cloud Automation Architect"
+    - name : "SAP Cloud Solution Architect"
       content : "Plan and setup various projects with SAP services, such as SAP BTP (as infrastructure), SAP Integration Suite, SAP iRPA, SAP Data Intelligence, ..."
 
 
@@ -81,7 +81,7 @@ talk:
 ########################## Projects ###########################
 project:
   enable : true
-  title : "My Projects"
+  title : "My (private) Projects"
   # projects item comes from `content/**/projects/` folder.
 
 
