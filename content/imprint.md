@@ -16,7 +16,7 @@ outputs:
 
 Larissa Haas
 
-Rheinhäuser Str. 47
+Friedrich-Karl-Str. 1
 
 68165 Mannheim
 

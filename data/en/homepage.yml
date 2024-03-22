@@ -2,7 +2,7 @@
 banner:
   enable : true
   title :  "Hey, I’m Larissa **!**"
-  subtitle : "Data Scientist @ sovanta AG"
+  subtitle : "Senior Data Scientist @ sovanta AG"
   social : true
   # social icons comes from `config.toml` file.
 
@@ -12,7 +12,7 @@ about:
   enable : true
   title : ""
   image : "images/author.jpg"
-  content : "I am a Data Scientist working in Heidelberg. With university degrees in Political Science and Data Science, I combine ethical and business views on NLP projects. Besides that, I care about AI in Science Fiction, Bullet Journaling, and bringing Roundnet to the Olympic Games."
+  content : "I am a Senior Data Scientist working in Heidelberg. With university degrees in Political Science and Data Science, I combine ethical and business views on NLP and GenAI projects. Besides that, I care about AI in Science Fiction, Bullet Journaling, and bringing Roundnet to the Olympic Games."
 
 
 ####################### Education ###########################
@@ -38,16 +38,20 @@ experience:
   title : "Professional Experience"
   experience_item:
     # experience item loop
-    - name : "Data Scientist"
-      content : "@ sovanta AG <br> with special focus on NLP and Business Process Automation Projects"
-    
-    # experience item loop
-    - name : "Qualtrics-certified Employee Experience (EX) Expert"
-      content : "Manage Qualtrics surveys, consult customers with setup, design, and analysis of surveys and responses"
+    - name : "Senior Data Scientist"
+      content : "@ sovanta AG <br> with special focus on GenAI and Business Process Automation Projects"
 
     # experience item loop
     - name : "SAP Cloud Solution Architect"
       content : "Plan and setup various projects with SAP services, such as SAP BTP (as infrastructure), SAP Integration Suite, SAP iRPA, SAP Data Intelligence, ..."
+    
+    # experience item loop
+    #- name : "Qualtrics-certified Employee Experience (EX) Expert"
+    #  content : "Manage Qualtrics surveys, consult customers with setup, design, and analysis of surveys and responses"
+
+    # experience item loop
+    - name : "Active Member of Python Community"
+      content : "Code of Conduct Committee Member for PyConDE 2024, Co-organization of pyData Südwest Meetup"
 
 
 ####################### Expertise ###########################

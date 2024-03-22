@@ -1,8 +1,8 @@
 ---
-title: "(upcoming) Wie man KI auf der BTP richtig macht (DSAG Jahreskongress 2023)"
-date: 2023-08-01T12:40:00+06:00
+title: "Wie geht KI richtig auf der BTP? (DSAG Jahreskongress 2023)"
+date: 2023-09-19T12:40:00+06:00
 # talks thumb
-image : "images/talks/23-dsag.png"
+image : "images/talks/23-dsag.jpeg"
 draft: false
 # description
 description: "This is meta description"
