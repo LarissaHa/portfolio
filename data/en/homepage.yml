@@ -2,7 +2,7 @@
 banner:
   enable : true
   title :  "Hey, I’m Larissa **!**"
-  subtitle : "Senior Data Scientist @ sovanta AG"
+  subtitle : "AI Team Lead @ sovanta AG"
   social : true
   # social icons comes from `config.toml` file.
 
@@ -12,7 +12,7 @@ about:
   enable : true
   title : ""
   image : "images/author.jpg"
-  content : "I am a Senior Data Scientist working in Heidelberg. With university degrees in Political Science and Data Science, I combine ethical and business views on NLP and GenAI projects. Besides that, I care about AI in Science Fiction, Bullet Journaling, and bringing Roundnet to the Olympic Games."
+  content : "I work on and with AI since more than 12 years. With university degrees in Political Science and Data Science, I combine ethical and business views on NLP and GenAI projects. Besides that, I care about AI in Science Fiction, Bullet Journaling, and bringing Roundnet to the Olympic Games."
 
 
 ####################### Education ###########################
@@ -38,6 +38,10 @@ experience:
   title : "Professional Experience"
   experience_item:
     # experience item loop
+    - name : "Team Lead Automation & Analytics"
+      content : "@ sovanta AG <br> coordinating projects in AI and Automation and leading a team of consultants"
+
+    # experience item loop
     - name : "Senior Data Scientist"
       content : "@ sovanta AG <br> with special focus on GenAI and Business Process Automation Projects"
 
@@ -51,7 +55,7 @@ experience:
 
     # experience item loop
     - name : "Active Member of Python Community"
-      content : "Code of Conduct Committee Member for PyConDE 2024, Co-organization of pyData Südwest Meetup"
+      content : "Chair of Code of Conduct Committee @ PyConDE 2025, Django Girls Workshop organizer, Co-organization of pyData Südwest Meetup"
 
 
 ####################### Expertise ###########################

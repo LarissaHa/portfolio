@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://larissahaas.de"
+baseURL = "https://larissahaas.de"
 title = "Larissa Haas | Portfolio"
 theme = "gofolium"
 # post pagination
@@ -89,11 +89,6 @@ link = "contact"
 ############################# social site ########################
 
 [[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/l_r_ss_"
-
-[[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/lilana21/"
@@ -109,14 +104,19 @@ icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/larissa-haas-49019aa2/"
 
 [[params.social]]
-title = "xing"
+title = "substack"
 icon = "ti-sharethis" # themify icon : https://themify.me/themify-icons
-link = "http://xing.com/profile/Larissa_Haas6"
+link = "https://larissaha.substack.com/"
 
 [[params.social]]
-title = "medium"
-icon = "ti-sharethis" # themify icon : https://themify.me/themify-icons
-link = "https://medium.com/@larissahaas"
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://youtube.com/playlist?list=PLwC9YQFDWo835lZGikM-WknXMRaXxh9cD&si=GbikonlvUtzQSpdw"
+
+[[params.social]]
+title = "spotify"
+icon = "ti-headphone" # themify icon : https://themify.me/themify-icons
+link = "https://open.spotify.com/show/5tdjJ7EkCazDw73S70hWFJ"
 
 
 ################################### English language #####################################
@@ -126,4 +126,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2023; a hugo theme by [themefisher](https://themefisher.com); [imprint](/imprint)"
+copyright = "Copyright &copy; 2025; a hugo theme by [themefisher](https://themefisher.com); [imprint](/imprint)"
