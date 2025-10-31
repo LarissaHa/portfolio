@@ -10,8 +10,8 @@ description: "This is meta description"
 links:
   - label: "Slides"
     link: "https://github.com/LarissaHa/talks/tree/master/pyconde-2025"
-  #- label: "Video"
-  #  link: "https://www.youtube.com/watch?v=GU8e2VgbqJ0"
+  - label: "Video"
+    link: "https://youtu.be/78hdQK0pUtE?si=tK0rB_W2dskP9aKi"
   - label : "Source"
     link : "https://2025.pycon.de/talks/ZT3MGL/"
 ---

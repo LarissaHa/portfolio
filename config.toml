@@ -3,7 +3,7 @@ baseURL = "https://larissahaas.de"
 title = "Larissa Haas | Portfolio"
 theme = "gofolium"
 # post pagination
-paginate = "4"
+pagination.pagerSize = "4"
 # post excerpt
 summaryLength = "10"
 # disable language
@@ -117,6 +117,11 @@ link = "https://youtube.com/playlist?list=PLwC9YQFDWo835lZGikM-WknXMRaXxh9cD&si=
 title = "spotify"
 icon = "ti-headphone" # themify icon : https://themify.me/themify-icons
 link = "https://open.spotify.com/show/5tdjJ7EkCazDw73S70hWFJ"
+
+[[params.social]]
+title = "email"
+icon = "ti-email" # themify icon : https://themify.me/themify-icons
+link = "mailto:luanacasado21@gmail.com"
 
 
 ################################### English language #####################################

@@ -46,8 +46,8 @@ experience:
       content : "@ sovanta AG <br> with special focus on GenAI and Business Process Automation Projects"
 
     # experience item loop
-    - name : "SAP Cloud Solution Architect"
-      content : "Plan and setup various projects with SAP services, such as SAP BTP (as infrastructure), SAP Integration Suite, SAP iRPA, SAP Data Intelligence, ..."
+    #- name : "SAP Cloud Solution Architect"
+    #  content : "Plan and setup various projects with SAP services, such as SAP BTP (as infrastructure), SAP Integration Suite, SAP iRPA, SAP Data Intelligence, ..."
     
     # experience item loop
     #- name : "Qualtrics-certified Employee Experience (EX) Expert"

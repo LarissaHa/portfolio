@@ -12,8 +12,8 @@ description: "This is meta description"
 links:
   - label : "Buch beim Verlag"
     link : "https://www.rheinwerk-verlag.de/sap-build-low-code-entwicklung-und-automatisierung/"
-  - label : "Buch auf Amazon"
-    link : "https://www.amazon.com/dp/B0D4BXYGT9"
+  - label : "Buch bei Thalia"
+    link : "https://www.thalia.de/shop/home/artikeldetails/A1071935878"
 ---
 
 Automatisieren Sie Prozesse, entwickeln Sie mühelos Apps und erstellen Sie schnell Business Sites mit den neuen Low-Code-Lösungen von SAP Build! Sie erfahren alles über die strategische Nutzung der Tools, effektive Implementierungsstrategien und wertvolle Praxistipps, um Ihre digitale Transformation voranzutreiben.
