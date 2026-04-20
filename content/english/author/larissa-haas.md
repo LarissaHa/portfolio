@@ -21,4 +21,4 @@ social:
     link : "mailto:luanacasado21@gmail.com"
 ---
 
-I work on and with AI since more than 12 years. With university degrees in Political Science and Data Science, I combine ethical and business views on NLP and GenAI projects. Besides that, I care about AI in Science Fiction, Bullet Journaling, and bringing Roundnet to the Olympic Games.
+I have worked on and with AI for more than 13 years. With university degrees in Political Science and Data Science, I bring together ethical and business perspectives in NLP and GenAI projects. Beyond my work, I am interested in AI in science fiction, bullet journaling, and bringing roundnet to the Olympic Games.

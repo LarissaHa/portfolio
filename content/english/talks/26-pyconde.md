@@ -1,15 +1,15 @@
 ---
-title: "(Upcoming) Letting AI Move: Robotics Demos Powered by Python (PyConDE Darmstadt 2026)"
-date: 2026-03-31T12:40:00+06:00
+title: "Letting AI Move: Robotics Demos Powered by Python (PyConDE Darmstadt 2026)"
+date: 2026-04-16T12:40:00+06:00
 # talks thumb
-image : "images/talks/VUHSG9.png"
+image : "images/talks/26-pycon-reachy.jpg"
 draft: false
 # description
 description: "This is meta description"
 # links
 links:
-  #- label: "Slides"
-  #  link: "https://github.com/LarissaHa/talks/tree/master/pyconde-2025"
+  - label: "Slides"
+    link: "https://github.com/LarissaHa/talks/tree/master/pyconde-2026"
   #- label: "Video"
   #  link: "https://youtu.be/78hdQK0pUtE?si=tK0rB_W2dskP9aKi"
   - label : "Source"

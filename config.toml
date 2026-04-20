@@ -3,7 +3,7 @@ baseURL = "https://larissahaas.de"
 title = "Larissa Haas | Portfolio"
 theme = "gofolium"
 # post pagination
-pagination.pagerSize = "4"
+pagination.pagerSize = "8"
 # post excerpt
 summaryLength = "10"
 # disable language
@@ -131,4 +131,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2025; a hugo theme by [themefisher](https://themefisher.com); [imprint](/imprint)"
+copyright = "Copyright &copy; 2026; a hugo theme by [themefisher](https://themefisher.com); [imprint](/imprint)"
